@@ -1,3 +1,4 @@
+# Creates a linked list and displays the list. Written in C. From Abdul Bari's lectures (udemy.com) on Da# ta Structures and Algorithms.
 #include <stdio.h>
 #include <stdlib.h>
 
